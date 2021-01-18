@@ -1,5 +1,6 @@
 ## Unit 18 Homework: Lets go Splunking!
 
+In this unit we worked with Splunk as a SIEM tool. Splunk's powerful SPL (search processing language) allows for quick processing of huge amounts of security information. The homework tasked us with crafting our own SPL queries and then using those queries to build alerts and reports. Being able to create SPL queries allows us to gain deeper insights from our security event logs, easily share our findings with team members, and automate aspects of our security incident response. This deliverable contains a few analyses of the data provided and screenshots of my reports and alerts.
 
 ### Step 1: The Need for Speed
 
