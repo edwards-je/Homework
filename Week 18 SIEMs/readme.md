@@ -1,15 +1,16 @@
-##Unit 18 Homework: Lets go Splunking!
+## Unit 18 Homework: Lets go Splunking!
 
 
-###Step 1: The Need for Speed
+### Step 1: The Need for Speed
 
 
 Answer the following questions:
 
 Based on the report created, what is the approximate date and time of the attack?
+   - Attack began at 2020-02-23 2:30pm
 
 How long did it take your systems to recover?
-
+    - It took approximately 9 hours to recover, with a return to baseline at 2020-02-23 11:30pm
 
 
 Submit a screen shot of your report and the answer to the questions above.
@@ -33,8 +34,3 @@ Determine a baseline of normal activity and a threshold that would alert if a br
 
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
 
-Your Submission
-In a word document, provide the following:
-
-Answers to all questions where indicated.
-Screenshots where indicated.
