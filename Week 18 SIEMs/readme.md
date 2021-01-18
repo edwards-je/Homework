@@ -22,7 +22,7 @@ Submit a screenshot of your report and a screenshot of proof that the alert has 
 
 ![Nessus Search Step 2](images/Step2_Nessus_Search.png)
 
-![Alert Step 2](images/Step2_Nessus_Alert_Proof.png)
+![Alert Step 2](images/Step2b_Nessus_Alert_Proof.png)
 
 
 ### Step 3: Drawing the (base)line
