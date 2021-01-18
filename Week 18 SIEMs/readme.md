@@ -14,7 +14,7 @@ How long did it take your systems to recover?
 
 
 Submit a screen shot of your report and the answer to the questions above.
-!(images/Step1_table.png)
+![Table Step 1](images/Step1_table.png)
 
 ###Step 2: Are We Vulnerable?
 
