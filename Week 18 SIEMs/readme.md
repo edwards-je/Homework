@@ -16,12 +16,16 @@ How long did it take your systems to recover?
 Submit a screen shot of your report and the answer to the questions above.
 ![Table Step 1](images/Step1_table.png)
 
-###Step 2: Are We Vulnerable?
+### Step 2: Are We Vulnerable?
 
 Submit a screenshot of your report and a screenshot of proof that the alert has been created.
 
+![Nessus Search Step 2](images/Step2_Nessus_Search.png)
 
-###Step 3: Drawing the (base)line
+![Alert Step 2](images/Step2_Nessus_Alert_Proof.png)
+
+
+### Step 3: Drawing the (base)line
 
 
 When did the brute force attack occur?
@@ -33,4 +37,4 @@ Determine a baseline of normal activity and a threshold that would alert if a br
 
 
 Submit the answers to the questions about the brute force timing, baseline and threshold. Additionally, provide a screenshot as proof that the alert has been created.
-
+![Alert Step 3](images/Step3_Alert_Proof.png)
